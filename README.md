@@ -18,6 +18,6 @@ Hello, I'am Filipe, I founded Wifiro when I was 22 after graduating in software 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filipesouzaa/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/filippesouzaa/)
-[<img src = "https://img.shields.io/badge/GMAIL-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=green">](https://www.instagram.com/filippesouzaa/)
+[<img src = "https://img.shields.io/badge/GMAIL-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](https://www.instagram.com/filippesouzaa/)
 
 
