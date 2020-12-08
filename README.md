@@ -16,13 +16,11 @@ Hello, I'am Filipe, I founded Wifiro when I was 22 after graduating in software 
   💌 Would like to talk with me? Choose your weapon below!: ⤵️
 </p>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=filippesouzaa@gmail.com"/></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipesouzaa/"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/filippesouzaa/"/></a>
-</p>  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeel/)
+[<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/story/10872163)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__j_e_e_l__/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+[<img src = "https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/__j_e_e_l__)
+<a href="https://twitter.com/__j_e_e_l__"><img src="https://img.shields.io/twitter/follow/__j_e_e_l__?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://github.com/jeelpatel1612"><img src="https://img.shields.io/github/followers/jeelpatel1612.svg?label=GitHub&style=social" alt="GitHub"></a>
+<!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/__j_e_e_l__) -->
