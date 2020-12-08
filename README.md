@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Filipe fundou o Wifiro, a primeira fábrica de software do estado de Rondônia, onde já possui aprovação dos clientes e reconhecimento público. Seu principal foco é fazer-se entender que a tecnologia e o meio ambiente podem ser aliados e que a região Norte do Brasil tem muito a oferecer. Vislumbrar um mundo em que a Região Amazônica é avançada tecnologicamente e preservada é o que o mantém dirigindo.
 </p>
 
 <p align="left">
