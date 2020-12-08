@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Hello, I'am Filipe, I founded Wifiro when I was 22 after graduating in software engineering, it's the first software factory in the state of Rondônia, where I obtained approval from customers and public recognition. Currently my main focus is to make it understood that technology and the environment can be allies and that the Northern region of Brazil has a lot to offer. Looking at a world in which the Amazon Region is technologically advanced and preserved is what keeps me driving.
+Hello, I'am Filipe, I founded Wifiro when I was 22 after graduating in software engineering, it's the first software factory in the state of Rondônia/Brazil, where I obtained approval from customers and public recognition. Currently my main focus is to make it understood that technology and the environment can be allies and that the Northern region of Brazil has a lot to offer. Looking at a world in which the Amazon Region is technologically advanced and preserved is what keeps me driving.
 </p>
 
 <p align="left">
